@@ -1,0 +1,23 @@
+body {
+  background-image: url(images/leaves.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-color: greenyellow;
+  text-align: center;
+  margin:200px
+}
+
+form {
+  display: inline-block;
+  text-align: center; 
+  background-color: white;
+  border-style: double;
+  border-color: rosybrown;
+  padding: 5rem;
+}
+
+label{
+  color: rosybrown;
+  font-family:Georgia, seriff;
+  font-weight: bold;
+}
